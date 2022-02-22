@@ -4,7 +4,7 @@ Markdown简历模板
 
 # 如何使用
 
-1. 下载[Typora](https://typora.io/) (也可使用其他), 但不保证导出效果与下文一致.
+1. 下载[Typora](https://typora.io/) (也可使用其他Markdown编辑器), 但不保证导出效果与下文一致.
 2. 修改`resume.md`中的内容:
 
    - 将照片放入`assets`文件夹中, 并相应修改`<img src="assets/id-photo.jpg" style="float:right" width="100" height="100"/>`中的名称及长宽, 建议设置高度大于100, 否则文字无法对齐;
