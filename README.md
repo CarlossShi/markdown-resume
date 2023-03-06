@@ -19,7 +19,7 @@ Markdown中英文简历模板.
    1. 进入`文件`→ `偏好设置`→`导出`;
    2. 按底部加号:heavy_plus_sign:, 选择`PDF (Typora / Webkit)`后点击`添加`, 并修改命名;
    3. 设置`页边距`为`自定义`, 设置`上下左右侧页边距`如`14, -10, 2, 2`;
-   4. 对于中文简历 (`resume-zh`) 中, 选择`主题`为`Github, Newsprint, Whitey`中的其中一个, 推荐使用`Github`主题, 也可在[Typora Themes](https://theme.typora.io/)中下载其他主题; 对于英文简历 (`resume-en`) 中, 选择刚才添加的`Cv`主题;
+   4. 对于中文简历 (`resume-zh`) , 选择`主题`为`Github, Newsprint, Whitey`中的其中一个, 推荐使用`Github`主题, 也可在[Typora Themes](https://theme.typora.io/)中下载其他主题; 对于英文简历 (`resume-en`) , 选择刚才添加的`Cv`主题;
    5. 依次点击`文件`→`导出`再选择刚才添加的导出方式即可导出`pdf`文件.
 
 # 效果
